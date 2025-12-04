@@ -14,7 +14,7 @@
 
 ### 🚀 Herramientas
 
-- Lenguajes de programación: Actualmente trabajo en masterizar Python, eventualmente con mayor experiencia estaré dirigiendome a JavaScript.
+- Lenguajes de programación: Actualmente trabajo en masterizar Python, eventualmente con mayor experiencia estaré dirigiendome a otros lenguajes que me permitan expandir mis conocimientos tales como R, JavaScript, HTML, entre otros.
 - Soft Skills: Analista, resolutivo y con una capacidad importante para resolver obstáculos.
 
 ### 💡 Intereses
