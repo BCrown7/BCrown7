@@ -8,13 +8,13 @@
   </p>
 </blockquote>
 
-¡Hola! Recién me convertí en Analista de Datos. Apasionado por nuevos aprendizajes y retos, me encuentro emocionado por evolucionar en mis conocimientos y superar mis limites.
+¡Hola! Soy Analista de Datos. Apasionado por nuevos aprendizajes y retos, me encuentro emocionado por evolucionar en mis conocimientos y superar mis limites.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNxdjR1Zm9zMHFpbjB4ZDRmcjZqb2NzMWkzcDZucmp0bXkxNmEzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="430" height="340" />
 
 ### 🚀 Herramientas
 
-- Lenguajes de programación: Actualmente trabajo en masterizar Python, eventualmente con mayor experiencia estaré dirigiendome a otros lenguajes que me permitan expandir mis conocimientos tales como R, JavaScript, HTML, entre otros.
+- Lenguajes de programación: Actualmente trabajo con herramientas como Python, SQL & NoSQL, Power BI, eventualmente con mayor experiencia estaré dirigiendome a otros lenguajes que me permitan expandir mis conocimientos tales como R, JavaScript, HTML, así como más tipos de herramientas a expandirme como Tableau, entre otros.
 - Soft Skills: Analista, resolutivo y con una capacidad importante para resolver obstáculos.
 
 ### 💡 Intereses
@@ -32,7 +32,7 @@ Además de los estudios y aprendizaje también disfruto de:
 
 ### 🌱 Próximas metas
 
-- Busco volverme un auténtico profesional en mi área, y eventualmente expertiz en herramientas de desarrollo y análisis para proyectos empresariales. Considero la posibilidad de escalar a Ciencia De Datos.
+- Busco volverme un auténtico profesional en mi área, y eventualmente expertiz en herramientas de desarrollo y análisis para proyectos empresariales.
 
 <p align="center"> <img src="https://gifsanimados.espaciolatino.com/cats/Lineas/lincolors1.gif" width="1000px" height="3px">
 
