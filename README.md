@@ -4,7 +4,7 @@
 
 <blockquote style="font-size: 48px;">
   <p align="center">
-    <strong>"Vive tu vida un día a la vez"</strong>
+    <strong>"Un día a la vez..."</strong>
   </p>
 </blockquote>
 
