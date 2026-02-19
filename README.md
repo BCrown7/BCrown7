@@ -15,6 +15,10 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNxdjR1Zm9zMHFpbjB4ZDRmcjZqb2NzMWkzcDZucmp0bXkxNmEzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="430" height="340" />
 
+<h2 align="center">━━━━━━━━━━━━━━━━━━━━━━</h2>
+<h2 align="center">💻 STACK TECNOLÓGICO</h2>
+<h2 align="center">━━━━━━━━━━━━━━━━━━━━━━</h2>
+
 ### 🧠 Lenguajes
 Python | SQL
 
@@ -29,6 +33,10 @@ AWS
 
 ### 🛠 Entorno
 VS Code | Git | GitHub | Jupyter
+
+<h2 align="center">━━━━━━━━━━━━━━━━━━━━━━</h2>
+<h2 align="center">🌟 SOBRE MÍ</h2>
+<h2 align="center">━━━━━━━━━━━━━━━━━━━━━━</h2>
 
 ### 💡 Intereses
 
@@ -84,6 +92,7 @@ Además de los estudios y aprendizaje también disfruto de:
 ### <p align="center"> ¡Gracias por visitar mi perfil!
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BCrown7&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BCrown7&theme=radical)
 
 <p align="center">
