@@ -4,18 +4,31 @@
 
 <blockquote style="font-size: 48px;">
   <p align="center">
-    <strong>"Un día a la vez..."</strong>
+    <strong>“Un día a la vez, una mejora a la vez, un insight a la vez.”</strong>
   </p>
 </blockquote>
 
-¡Hola! Soy Analista de Datos. Apasionado por nuevos aprendizajes y retos, me encuentro emocionado por evolucionar en mis conocimientos y superar mis limites.
+¡Hola! Soy Bryan...
+🎯 Analista de Datos enfocado en transformar datos en decisiones estratégicas.
+📊 Especializado en Python, SQL y visualización de datos.
+🚀 En constante evolución hacia soluciones empresariales basadas en datos.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNxdjR1Zm9zMHFpbjB4ZDRmcjZqb2NzMWkzcDZucmp0bXkxNmEzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="430" height="340" />
 
-### 🚀 Herramientas
+### 🧠 Lenguajes
+Python | SQL
 
-- Lenguajes de programación: Actualmente trabajo con herramientas como Python, SQL & NoSQL, Power BI, eventualmente con mayor experiencia estaré dirigiendome a otros lenguajes que me permitan expandir mis conocimientos tales como R, JavaScript, HTML, así como más tipos de herramientas a expandirme como Tableau, entre otros.
-- Soft Skills: Analista, resolutivo y con una capacidad importante para resolver obstáculos.
+### 📊 Data & Visualización
+Pandas | NumPy | Plotly | Power BI | Looker Studio
+
+### 🗄 Bases de Datos
+SQL Server | NoSQL
+
+### ☁️ Cloud
+AWS
+
+### 🛠 Entorno
+VS Code | Git | GitHub | Jupyter
 
 ### 💡 Intereses
 
@@ -26,13 +39,14 @@
 
 Además de los estudios y aprendizaje también disfruto de:
 
-- Jugar videojuegos (me encantan los Survival Horror y soy un gran fanático de Resident Evil)
-- Escuchar música (dedicándome especialmente a albumes enteros mayoritariamente)
-- Visitar el cine, mi lugar favorito en el mundo sin duda alguna.
+🎮 Videojuegos: Fan de Resident Evil – porque resolver problemas bajo presión también es una habilidad.
+🎬 El cine – las buenas historias también existen en los datos.
+🎵 Albumes completos – igual que analizo datasets completos.
 
 ### 🌱 Próximas metas
 
-- Busco volverme un auténtico profesional en mi área, y eventualmente expertiz en herramientas de desarrollo y análisis para proyectos empresariales.
+- Actualmente ampliando conocimientos en R, JavaScript y Tableau.
+- Busco una constante mejora y actitudes de aprendizaje en mi área, para lograr el expertiz en herramientas de desarrollo y análisis para proyectos empresariales.
 
 <p align="center"> <img src="https://gifsanimados.espaciolatino.com/cats/Lineas/lincolors1.gif" width="1000px" height="3px">
 
@@ -57,17 +71,20 @@ Además de los estudios y aprendizaje también disfruto de:
 
 <p align="center">
   <a href="https://linkedin.com/in/bryancoronado-" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="150" width="150" />
+    <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="100" width="100" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/BCrown7" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/475654/github-color.svg" height="150" width="150" />
+    <img align="center" src="https://www.svgrepo.com/show/475654/github-color.svg" height="100" width="100" />
   </a>
 </p>
 
 <p align="center"> <img src="https://gifsanimados.espaciolatino.com/cats/Lineas/lincolors1.gif" width="1000px" height="3px">
 
 ### <p align="center"> ¡Gracias por visitar mi perfil!
+
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BCrown7&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BCrown7&theme=radical)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
